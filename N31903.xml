@@ -112,8 +112,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:042104_0000_101B8B955C6EBF60"/>
-            <pb facs="tcp:042104_0001_101B8B9929DAA920" rendition="simple:additions"/>
+            <pb facs="unknown:042104_0000_101B8B955C6EBF60"/>
+            <pb facs="unknown:042104_0001_101B8B9929DAA920"
+                rendition="simple:additions"/>
             <p>A VISION OF HELL, AND A DISCOVERY OF SOME OF THE CONSULTATIONS AND DEVICES THERE In the YEAR, 1767.</p>
             <p>BY THEODORUS VAN SHEMAIN.</p>
             <q>
@@ -141,7 +142,7 @@
       </front>
       <body>
          <div type="account_of_vision">
-            <pb n="2" facs="tcp:042104_0002_101B8B9BD4D632B0"/>
+            <pb n="2" facs="unknown:042104_0002_101B8B9BD4D632B0"/>
             <head>A Viſion of Hell, &amp; a Diſcovery of ſome of the Conſultations &amp; Devices there.</head>
             <p>IN the month of May in the Year 1767, in a morning after I had been ſome time out of bed, I was muſing upon the low ſtate of religion, and the great progreſs of vice; I conſidered how the Devils would rejoice and triumph in the decay of piety, and in the flood of immorality that threaten<g ref="char:EOLhyphen"/>ed to deluge the world.—While I was thus muſing, I ſell into a ſort of trance, I was certainly not a ſleep; my fancy and imagination were moſt lively, and yet I retained m<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
@@ -150,7 +151,7 @@
                   <desc>•</desc>
                </gap>s. The devils were much elated with pride, and filled with boaſting, that their empire in this world, was larger than Immanuel's and that they had more ſervants and ſubjects than he; and that Chriſt's laws and authority, were ſo little regarded.</p>
             <p>
-               <pb n="3" facs="tcp:042104_0003_101B8B9D64868A48"/>
+               <pb n="3" facs="unknown:042104_0003_101B8B9D64868A48"/>
 The devils held conſultation upon many ſubjects. I perceived they had been in deep conſultation upon ſeveral methods to diſhonour God. But they were juſt entering upon a new ſubject, as I had this viſion of Hell. Two principal devils had then juſt re<g ref="char:EOLhyphen"/>turned from this world, to the infernal pit. The one was Moloch, the other Lucifer. The devils aſ<g ref="char:EOLhyphen"/>ſembled to hear what ſucceſs, and to conſult upon further meaſures—The damned ſouls were in mul<g ref="char:EOLhyphen"/>titudes all around, and as oft as they pleaſed, might attend, and hear the debates of the devils, for there was no privacy there.</p>
             <p>The conſultation which they held, while I had this viſion, was concerning the Goſpel miniſtry, and the ſabbath, or Lord's day. They employed their infernal wiſdom in deviſing how they might moſt effectually defeat God's end and deſign in both theſe.</p>
             <p>I ſhall give a faithful narrative of their conſulta<g ref="char:EOLhyphen"/>tion and determinations. But to make my account the more intelligible, it may be proper <gap reason="illegible" resp="#PDCC" extent="1 word">
@@ -159,7 +160,7 @@ The devils held conſultation upon many ſubjects. I perceived they had been in 
                   <desc>•••</desc>
                </gap>cipal devils. I ſhall mention only ſome of the chief. Their names were Belzebub, Lucifer, Moloch, Apollion, Mammon, Dagon, Belial, Baal, and Niſroch.</p>
             <p>As to their character, 'tis to be obſerved, that they have all a skill and diſpoſition to any, and all evil: but yet moſt of them are peculiarly diſpoſed to promote ſome particular ſin and vice, more than others. Indeed, Belzebub the chief, is ſo ſkilled in all iniquity, and ſo bent and diſpoſed to all that is bad, that there is no devil in hell exceeds him, in any one evil. Lucifer's peculiar character is to act as an angel of light, and induce to evil under a ſhew or falſe appearance of good. Moloch, is the devil that vehemently tempts, and urges people to all vice in an open, bold, daring manner, leading them to commit ſin, with impudence, or without ſhame. Apollion, is the devil of cruelty, who tempts to malice and revenge, and peculiarly delights in the miſery of mankind. Mammon, is continually tempt<g ref="char:EOLhyphen"/>ing men to covetouſneſs, and to make this world
-<pb n="4" facs="tcp:042104_0004_101B8BA011EFDF88"/>their treaſure and delight. Dagon, is the devil of ſloth, who tempts men to ſloth and negligence in religion, and to ſink into a dead ſullen deſpair of any good. Belial, is the devil that tempts to diſ<g ref="char:EOLhyphen"/>obedience and obſtinacy; and has peculiar influence with youth, who diſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="4" facs="unknown:042104_0004_101B8BA011EFDF88"/>their treaſure and delight. Dagon, is the devil of ſloth, who tempts men to ſloth and negligence in religion, and to ſink into a dead ſullen deſpair of any good. Belial, is the devil that tempts to diſ<g ref="char:EOLhyphen"/>obedience and obſtinacy; and has peculiar influence with youth, who diſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>bey their parents. Baal, is an unclean devil, and excites to the indulgence of all ſorts of fleſhly luſts, and vicious appetites. Niſ<g ref="char:EOLhyphen"/>roch, is the devil of pride, and is continually tempt<g ref="char:EOLhyphen"/>ing and exciting to that ſin.</p>
             <p>Moloch, and Lucifer, being juſt returned from this earth, as I obſerved, and the devils being aſ<g ref="char:EOLhyphen"/>ſembled, there conſultation &amp; devices were as follows.</p>
@@ -190,7 +191,7 @@ The devils held conſultation upon many ſubjects. I perceived they had been in 
             <sp>
                <speaker>Apollion.</speaker>
                <p>The inſtitution of the ſabbath, &amp; the exerci<g ref="char:EOLhyphen"/>ſes of it, are alſo hateful means of encroaching upon us, and diminiſhing our ſubjects; I wiſh it was for
-<pb n="5" facs="tcp:042104_0005_101B8BA2CC275018"/>ever aboliſhed, &amp; no ſabba<gap reason="illegible" resp="#PDCC" extent="2 letters">
+<pb n="5" facs="unknown:042104_0005_101B8BA2CC275018"/>ever aboliſhed, &amp; no ſabba<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>, or ſabbath-exerciſes left.</p>
             </sp>
@@ -225,7 +226,7 @@ The devils held conſultation upon many ſubjects. I perceived they had been in 
                   </gap> every way poſſible, de<g ref="char:EOLhyphen"/>feat the fatal tendency of a preached goſpel. For we all obſerve, that from the cities, towns, and congre<g ref="char:EOLhyphen"/>gations. where the goſpel is clearly and faithfully diſpenſed, there are fewer ſouls come to hell, than from other places. The ſeats of glory, and felicity in heaven, from which we fell, are filled up from time to time, with human ſouls, that go from places where that deteſtable goſpel is clearly exhibited.</p>
             </sp>
             <sp>
-               <pb n="6" facs="tcp:042104_0006_101B8BA69914CE90"/>
+               <pb n="6" facs="unknown:042104_0006_101B8BA69914CE90"/>
                <speaker>Mammon.</speaker>
                <p>We all knew the difference between the places P—l, and R—S. In one of theſe the goſpel is clearly preached, by that deteſtable wretch K—L—In the other, how little hurt is done to us, where Z—R. pretends to preach; but his life and doctrine are ſuch, that we loſe but little by him. Let us therefore, if poſſible, prevent a clear, faithful, ſearching method of preaching.</p>
             </sp>
@@ -272,7 +273,7 @@ The devils held conſultation upon many ſubjects. I perceived they had been in 
                   </gap>mmanual's kingdom.</p>
             </sp>
             <sp>
-               <pb n="7" facs="tcp:042104_0007_101B8BA8288707D0"/>
+               <pb n="7" facs="unknown:042104_0007_101B8BA8288707D0"/>
                <speaker>Niſroch.</speaker>
                <p>By all means lead miniſters to expect more wealth, eaſe, &amp; reſpect in the world than they will find. And be ſure excite their wives, &amp; families, to expect great things, and find fault if they have them not. Their diſappointment, and the vexatious effects of it, will <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
@@ -328,7 +329,7 @@ The devils held conſultation upon many ſubjects. I perceived they had been in 
                <p>Miniſters may be tempted to neglect a clo<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>
-                  <pb n="8" facs="tcp:042104_0008_101B8BAAF47B16D0"/>application to the conſcience of their people in pri<g ref="char:EOLhyphen"/>vate, thro fear of offending them, by which offence a miniſter might loſe ſome part of his worldly income, or ſuffer reproach.</p>
+                  <pb n="8" facs="unknown:042104_0008_101B8BAAF47B16D0"/>application to the conſcience of their people in pri<g ref="char:EOLhyphen"/>vate, thro fear of offending them, by which offence a miniſter might loſe ſome part of his worldly income, or ſuffer reproach.</p>
             </sp>
             <sp>
                <speaker>Dagon.</speaker>
@@ -363,7 +364,7 @@ The devils held conſultation upon many ſubjects. I perceived they had been in 
                   </gap> Jeſus. These reports are <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
                   </gap>ly managed whether true to prejudice people and prevent
-<pb n="9" facs="tcp:042104_0009_101B8BADF2BA82E0"/>miniſters doing good. And we have always ſuch friends in every city, town, and congregation, who will not fail to make theſe reports look very plauſible, even if falſe.</p>
+<pb n="9" facs="unknown:042104_0009_101B8BADF2BA82E0"/>miniſters doing good. And we have always ſuch friends in every city, town, and congregation, who will not fail to make theſe reports look very plauſible, even if falſe.</p>
             </sp>
             <sp>
                <speaker>Mammon.</speaker>
@@ -406,7 +407,7 @@ The devils held conſultation upon many ſubjects. I perceived they had been in 
                   </gap>, I have ſome time been waiting to propoſe <gap reason="illegible" resp="#PDCC" extent="1 span">
                      <desc>〈…〉</desc>
                   </gap>
-                  <pb n="10" facs="tcp:042104_0010_101B8BB1C5F56400"/>that will carry this matter further, in oppoſition to Je<g ref="char:EOLhyphen"/>ſus chriſt. What I propoſe is eaſy to accompliſh, that is, to raiſe evil reports, falſhoods, and lies, concerning a miniſter, eſpecially if he is faithful, and ſpread theſe reports among the people. We have friends in every place, male and female, who delight in this work.</p>
+                  <pb n="10" facs="unknown:042104_0010_101B8BB1C5F56400"/>that will carry this matter further, in oppoſition to Je<g ref="char:EOLhyphen"/>ſus chriſt. What I propoſe is eaſy to accompliſh, that is, to raiſe evil reports, falſhoods, and lies, concerning a miniſter, eſpecially if he is faithful, and ſpread theſe reports among the people. We have friends in every place, male and female, who delight in this work.</p>
             </sp>
             <sp>
                <speaker>Lucifer.</speaker>
@@ -427,7 +428,7 @@ The devils held conſultation upon many ſubjects. I perceived they had been in 
             <sp>
                <speaker>Belial.</speaker>
                <p>The advice of Moloch is much to the pur<g ref="char:EOLhyphen"/>poſe. I have often obſerved the effect of it among the young ones, to my great ſatisfaction. There is G— D—of H—l, has practiſed according to theſe ſug<g ref="char:EOLhyphen"/>geſtions; he repeats over with ſatisfaction among his children, the falſhoods raiſed and ſpread abroad con<g ref="char:EOLhyphen"/>cerning his miniſter and intimates that he has reaſon to believe they are true. And his children are all ma<g ref="char:EOLhyphen"/>lignant,
-<pb n="11" facs="tcp:042104_0011_101B8BB3556B0840"/>bold, impudent deſpiſers of their miniſter, and promiſe fair to ſerve us to our mind, as long as they live.</p>
+<pb n="11" facs="unknown:042104_0011_101B8BB3556B0840"/>bold, impudent deſpiſers of their miniſter, and promiſe fair to ſerve us to our mind, as long as they live.</p>
             </sp>
             <sp>
                <speaker>Apollion.</speaker>
@@ -468,7 +469,7 @@ The devils held conſultation upon many ſubjects. I perceived they had been in 
                   </gap>ake, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> for their oppoſing our kingdom, We have le, them know to
-<pb n="12" facs="tcp:042104_0012_101B8BB6403C8FE8"/>their coſt theſe many hundred years, that if they will live godly in Jeſus Chriſt, they ſhall ſuffer perſecution.</p>
+<pb n="12" facs="unknown:042104_0012_101B8BB6403C8FE8"/>their coſt theſe many hundred years, that if they will live godly in Jeſus Chriſt, they ſhall ſuffer perſecution.</p>
             </sp>
             <sp>
                <speaker>Apollion.</speaker>
@@ -501,7 +502,7 @@ The devils held conſultation upon many ſubjects. I perceived they had been in 
                <p>What is that, brave Lucifer?</p>
             </sp>
             <sp>
-               <pb n="13" facs="tcp:042104_0013_101B8BB9303DD2B0"/>
+               <pb n="13" facs="unknown:042104_0013_101B8BB9303DD2B0"/>
                <speaker>Lucifer.</speaker>
                <p>Stir up ſome enthuſiaſtic, deluded, ſelf-conceited people to cenſure and condemn the miniſ<g ref="char:EOLhyphen"/>ters of Chriſt, as carnal unregenerate men and legal preachers. There are numbers of people who thro' the pride of their bearts, ignorance of themſelves, and of the nature of religion, think they are more reli<g ref="char:EOLhyphen"/>gious than others: Theſe may be improved as uſe<g ref="char:EOLhyphen"/>ful ſervants in our cauſe; they pretend to great reli<g ref="char:EOLhyphen"/>gion and ſanctity, inward light and experience, ſo that many people really think they have much reli<g ref="char:EOLhyphen"/>gion, and underſtand it better than common. Theſe pretenders muſt be excited to cenſure and condemn miniſters as carnal, unregenerate, legal, and dull; that they have not the ſpirit, and do not preach by experience; that if they have any grace, they have got away from God; that 'tis unprofitable if not dan<g ref="char:EOLhyphen"/>gerous to hear them, yea, that 'tis very dangerous to let awakened perſons hear them.</p>
             </sp>
@@ -520,7 +521,7 @@ The devils held conſultation upon many ſubjects. I perceived they had been in 
             <sp>
                <speaker>Damned Souls.</speaker>
                <p>Ye curſed devils, who once acted as angels of light, who ſtirred up the pride and ſelf conceit of our corrupt natures, and led us to think
-<pb n="14" facs="tcp:042104_0014_101B8BBD02606218"/>that religion conſiſted in what it did not, and made us ſlatter and delude ourſelves, and refuſe better light and conviction till it was too late. May infinite ven<g ref="char:EOLhyphen"/>geance make your hell the hotteſt poſſible to all eter<g ref="char:EOLhyphen"/>nity. What could ye, curſed furies, propoſe by thus leading us to ſuch miſery and torment?</p>
+<pb n="14" facs="unknown:042104_0014_101B8BBD02606218"/>that religion conſiſted in what it did not, and made us ſlatter and delude ourſelves, and refuſe better light and conviction till it was too late. May infinite ven<g ref="char:EOLhyphen"/>geance make your hell the hotteſt poſſible to all eter<g ref="char:EOLhyphen"/>nity. What could ye, curſed furies, propoſe by thus leading us to ſuch miſery and torment?</p>
             </sp>
             <sp>
                <speaker>Apollion.</speaker>
@@ -541,7 +542,7 @@ The devils held conſultation upon many ſubjects. I perceived they had been in 
             <sp>
                <speaker>Damned Souls.</speaker>
                <p>Ah, curſed Devils! Ah, curſed mi<g ref="char:EOLhyphen"/>niſters! Ah, curſed ſelves! that we who had the bi<g ref="char:EOLhyphen"/>ble, and might have known better, ſhould believe ſuch doctrines as were agreeable to our wicked hearts, our pride, ſelf-righteouſneſs, and the very
-<pb n="15" facs="tcp:042104_0015_101B8BBE90EEEE30"/>Juſts of our nature; and think it was well with us when it was not!</p>
+<pb n="15" facs="unknown:042104_0015_101B8BBE90EEEE30"/>Juſts of our nature; and think it was well with us when it was not!</p>
             </sp>
             <sp>
                <speaker>Niſroch.</speaker>
@@ -569,7 +570,7 @@ The devils held conſultation upon many ſubjects. I perceived they had been in 
             <sp>
                <speaker>Belzebub.</speaker>
                <p>The ſabbath is a day that I hate; it has proved the deteſtable means of depriving us of many thouſans, if not millions of ſouls. We have before obſerved, that religion flouriſhes or falls in proporti<g ref="char:EOLhyphen"/>on as the ſabbath is obſerved or not. 'Tis the hate<g ref="char:EOLhyphen"/>ful day in which people not only hear the word preached, but heads of families catechiſe and inſtruct
-<pb n="16" facs="tcp:042104_0016_101B8BC141E18970"/>their children and ſervants, and lay in young minds thoſe principles which we find hard to root out. Where this day is obſerved, we cannot by all our helliſh art prevent ſome truths ſtriking the conſcience of ſinners.</p>
+<pb n="16" facs="unknown:042104_0016_101B8BC141E18970"/>their children and ſervants, and lay in young minds thoſe principles which we find hard to root out. Where this day is obſerved, we cannot by all our helliſh art prevent ſome truths ſtriking the conſcience of ſinners.</p>
             </sp>
             <sp>
                <speaker>Moloch.</speaker>
@@ -594,7 +595,7 @@ The devils held conſultation upon many ſubjects. I perceived they had been in 
             <sp>
                <speaker>Moloch.</speaker>
                <p>We have had a ſucceſſion of Friends on
-<pb n="17" facs="tcp:042104_0017_101B8BC5107852E8"/>earth above one hund<gap reason="illegible" resp="#PDCC" extent="1 letter">
+<pb n="17" facs="unknown:042104_0017_101B8BC5107852E8"/>earth above one hund<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>ed years, who have bravely denied and oppoſed the ſabbath. They have done worthily and had very conſiderable ſucceſs. There are many thouſands now, who have no regard in their conſcience to the ſabbath; and if they do not make ſo much oppoſition to it as they have done, yet their children are likely to be bro't up in the parents way of thinking: and we hope the number will increaſe.</p>
             </sp>
@@ -615,7 +616,7 @@ The devils held conſultation upon many ſubjects. I perceived they had been in 
             <sp>
                <speaker>Dagon.</speaker>
                <p>All good advice, ye princes of hell! But
-<pb n="18" facs="tcp:042104_0018_101B8BC6A3C53A00"/>ſtill the ſabbath will be believed by many; let us therefore conſult now we may defeat the deſign of it where 'tis believed. And I would propoſe to keep people from public worſhip, through negligence, ſloth or vice: For if people by their own <gap reason="illegible" resp="#PDCC" extent="1 word">
+<pb n="18" facs="unknown:042104_0018_101B8BC6A3C53A00"/>ſtill the ſabbath will be believed by many; let us therefore conſult now we may defeat the deſign of it where 'tis believed. And I would propoſe to keep people from public worſhip, through negligence, ſloth or vice: For if people by their own <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> will abſent themſelves from public worſhip, and neglect the means God has appointed, the ſabbath will not much hurt our intereſt. I can induce many to ab<gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
@@ -675,7 +676,7 @@ The devils held conſultation upon many ſubjects. I perceived they had been in 
                <p>This may be done by degrees. We may at firſt make them think ſomething of this is neceſſa<g ref="char:EOLhyphen"/>ry. And when they once begin, the ſame neceſſity will lead them to it again and again, till they will not be afraid nor aſhamed to make a conſtant practice of it: Thus not only lawyers, phyſicians, and mer<g ref="char:EOLhyphen"/>chants, but many others will ſpend the day in ſettling and adjuſting their accounts, and preparing for more publick buſineſs on other days of the week.</p>
             </sp>
             <sp>
-               <pb n="19" facs="tcp:042104_0019_101B8BC9568F8EF8"/>
+               <pb n="19" facs="unknown:042104_0019_101B8BC9568F8EF8"/>
                <speaker>Baal.</speaker>
                <p>I would propoſe, that Mammon ſhould tempt people in the country to walk over their fields and plantations on that day, and view their crops, creatures, fences, and the like. This will be more a<g ref="char:EOLhyphen"/>greeable to many than attending public worſhip: And if any ſhould fault them for not attending the word preached, they can eaſily excuſe themſelves, by ſaying, they can read as good a ſermon at home as they can hear at church.</p>
             </sp>
@@ -698,7 +699,7 @@ The devils held conſultation upon many ſubjects. I perceived they had been in 
             <sp>
                <speaker>Belzebub.</speaker>
                <p>Thy joy: O Lucifer, is worthy the noble powers of hell. But we have not done with the ſab<g ref="char:EOLhyphen"/>bath. After all, many will pay ſome regard to the day, and attend public worſhip: It remains that we
-<pb n="20" facs="tcp:042104_0020_101B8BCAE7C76150"/>conſider how we ſhall prevent their getting any good on that day.</p>
+<pb n="20" facs="unknown:042104_0020_101B8BCAE7C76150"/>conſider how we ſhall prevent their getting any good on that day.</p>
             </sp>
             <sp>
                <speaker>Dagon.</speaker>
@@ -730,7 +731,7 @@ The devils held conſultation upon many ſubjects. I perceived they had been in 
             <sp>
                <speaker>Apollion.</speaker>
                <p>The mind being engaged about thoſe things in going to church, will dwell upon them in time of ſervice, ſo as to neglect any attention to the
-<pb n="21" facs="tcp:042104_0021_101B8BCFDC417988"/>truths delivered; and we know that no good is got by any preaching that is not attended to.</p>
+<pb n="21" facs="unknown:042104_0021_101B8BCFDC417988"/>truths delivered; and we know that no good is got by any preaching that is not attended to.</p>
             </sp>
             <sp>
                <speaker>Baal.</speaker>
@@ -753,7 +754,7 @@ The devils held conſultation upon many ſubjects. I perceived they had been in 
             <sp>
                <speaker>Belzebub.</speaker>
                <p>I have heard your propoſals with great
-<pb n="22" facs="tcp:042104_0022_101B5DEDDA753568"/>ſatisfaction; but ſtill ſomething remains. In the very time of hearing, when the word is preached and inculcated by our enemies, then is the great danger. Mankind have ears to hear, and they are rational creatures; there are ſuch awakening and affecting truths delivered: Truths that in ſuch an awful and intereſting manner concern them, that it ſeems al<g ref="char:EOLhyphen"/>moſt impoſſible that rational creatures ſhould be care<g ref="char:EOLhyphen"/>leſs, and not attend, and be affected; we cannon our<g ref="char:EOLhyphen"/>ſelves but wonder that they are not. Let us there<g ref="char:EOLhyphen"/>fore, by all means in the very time of hearing, uſe all our art, and throw into their minds, without cea<g ref="char:EOLhyphen"/>ſing, all ſorts of evil thoughts, moſt ſuited to their corrupt nature. If we can ſhield and ſecure the con<g ref="char:EOLhyphen"/>ſcience in the time of hearing, we ſhall not have much reaſon to fear.</p>
+<pb n="22" facs="unknown:042104_0022_101B5DEDDA753568"/>ſatisfaction; but ſtill ſomething remains. In the very time of hearing, when the word is preached and inculcated by our enemies, then is the great danger. Mankind have ears to hear, and they are rational creatures; there are ſuch awakening and affecting truths delivered: Truths that in ſuch an awful and intereſting manner concern them, that it ſeems al<g ref="char:EOLhyphen"/>moſt impoſſible that rational creatures ſhould be care<g ref="char:EOLhyphen"/>leſs, and not attend, and be affected; we cannon our<g ref="char:EOLhyphen"/>ſelves but wonder that they are not. Let us there<g ref="char:EOLhyphen"/>fore, by all means in the very time of hearing, uſe all our art, and throw into their minds, without cea<g ref="char:EOLhyphen"/>ſing, all ſorts of evil thoughts, moſt ſuited to their corrupt nature. If we can ſhield and ſecure the con<g ref="char:EOLhyphen"/>ſcience in the time of hearing, we ſhall not have much reaſon to fear.</p>
             </sp>
             <sp>
                <speaker>Dagon.</speaker>
@@ -774,7 +775,7 @@ The devils held conſultation upon many ſubjects. I perceived they had been in 
             <sp>
                <speaker>Mammon.</speaker>
                <p>I can do much with ſome others, by ſug<g ref="char:EOLhyphen"/>geſting
-<pb n="23" facs="tcp:042104_0023_101B8BD41B2EC168"/>worldly covetous thoughts, ſo that their hearts ſhall be far enough from the place they are in, or any thing that the preacher ſays.</p>
+<pb n="23" facs="unknown:042104_0023_101B8BD41B2EC168"/>worldly covetous thoughts, ſo that their hearts ſhall be far enough from the place they are in, or any thing that the preacher ſays.</p>
             </sp>
             <sp>
                <speaker>Belzebub.</speaker>
@@ -799,7 +800,7 @@ The devils held conſultation upon many ſubjects. I perceived they had been in 
                <p>Hah, but you are confined ſafe enough: We have you here, and her<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap> we will torment you for ever. Not one of you ſhall depart a moment, to
-<pb n="24" facs="tcp:042104_0024_101B8BD7DF803580"/>give the leaſt whiſper in the ears of any mortal on earth—When your companions come hither they ſhall know and feel what you now do.</p>
+<pb n="24" facs="unknown:042104_0024_101B8BD7DF803580"/>give the leaſt whiſper in the ears of any mortal on earth—When your companions come hither they ſhall know and feel what you now do.</p>
             </sp>
             <p>Juſt at this moment my viſion vaniſhed; my trance ceaſed; I returned to myſelf, and found all had been but a viſion. Yet ſure I was it was a real viſion, and the views I had were real truths.</p>
             <p>And now th<gap reason="illegible" resp="#PDCC" extent="2 letters">
